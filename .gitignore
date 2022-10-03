@@ -1,2 +1,5 @@
 HW2 neural network/data/
 classified/
+.vscode
+*/.ipynb_checkpoints
+.DS_Store
